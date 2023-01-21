@@ -5,7 +5,7 @@ Hi everyone my name is Jesus (Jess for the buddies), I'm professional mexican be
 with 4 years experience in sports events, who's triying to reach the next level becoming a data analyst.
 
 I decided to create these technological useful tools which extract all scential weather 
-data from NFL and MLB teams stadiums. Then I analyze and study information to make 
+data from NFL and MLB teams stadiums. Then I analyze and study information this to make 
 a right decision if I feel atracted from some sport event. 
 
 The main functionality of these web scrapers is extract fundamental data like stadium location, 
