@@ -1,0 +1,7 @@
+Hi everyone my name is Jesus (Jess for the buddies), I'm professional mexican bettor with 4 years experience in sports events, I decided to create these technological useful tools which extract all scential weather data from NFL and MLB teams stadiums. Then I analyze and study the information to make a right decision if I feel atracted from some sport event. 
+
+
+Main functionality from these web scrapers is extract fundamental data like stadium location, celsius degrees, current temperatures, real feel, wind, and weather expectations, writing inside an input NFL or MLB team name that we'd like to know. It also has incorpored automatic data extraction by hours, you just need to turn it on removing the "#" in code below the comment "Extract Data Automatically" (last part of python code).
+
+
+Weather is just one more piece from other ones in sports betting analysis, it's an influence factor but not absolute when you're in decision-making process and deep analysis. I don't recommend get into industries that you don't know how them works or you haven't enough information about teams, players, etc. This is just a performance about what data I see scential and how I complement with technology for make predictive decitions.
