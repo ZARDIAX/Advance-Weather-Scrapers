@@ -10,7 +10,7 @@ a right decision if I feel atracted from some sport event.
 
 The main functionality of these web scrapers is extract fundamental data like stadium location, 
 celsius degrees, current temperatures, real feel, wind, and weather expectations (I use them in my analysis). 
-It also has incorpored automatic data extraction by hours, you just need to turn it on removing the "#" in 
+It also has incorpored automatic data extraction by hours, you can turn it on removing the "#" in 
 code below the comments "Extract Data Automatically" and "Loop While For Turn On Automatic Scraper Function" 
 (They're in last part of python code).
 
